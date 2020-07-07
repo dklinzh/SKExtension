@@ -1,0 +1,7 @@
+# SpriteSwift document generator jazzy settings
+
+copyright: Copyright 2020 dklinzh
+author: Daniel Lin
+xcodebuild_arguments: [-target, SpriteSwift-iOS]
+clean: true
+output: ./Documentation
